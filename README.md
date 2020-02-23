@@ -50,6 +50,8 @@ applying the migration:
 $ php yii data/migrate/up
 ```
 
+Migrations are located in the ```data-migrations``` directory.
+
 ## Migrations
 
 You can create the console migrations for creating/updating RBAC items.
