@@ -48,7 +48,7 @@ class MigrateController extends \yii\console\controllers\MigrateController
     /**
      * @inheritdoc
      */
-    public $templateFile = '@vendor/darkfriend/yii2migrate/views/migration.php';
+    public $templateFile = '@vendor/darkfriend/yii2-data-migrate/views/migration.php';
 
     /**
      * @inheritdoc
